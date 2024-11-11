@@ -26,4 +26,4 @@
 |  |  |  |
 |--|--|--|
 |No| Tugas | Detail |
-| 1 | Tugas Perulangan Grafika Komputer |
+| 1 | Tugas Perulangan | Grafika Komputer |
